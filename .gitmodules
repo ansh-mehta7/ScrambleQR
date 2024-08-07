@@ -1,0 +1,3 @@
+[submodule "urlshortner"]
+	path = urlshortner
+	url = https://github.com/ansh-mehta7/nuclink
